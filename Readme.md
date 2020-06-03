@@ -2,6 +2,5 @@
 
 feature1 edit
 
-feature2
+feature2 edit
 
-new string
