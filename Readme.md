@@ -1,5 +1,5 @@
 Инициализация
 
-feature1
+feature1 edit
 
 feature2
