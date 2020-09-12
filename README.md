@@ -1,9 +1,1 @@
-Инициализация
-
-feature1 edit
-
-feature2 edit
-
-# test
-svn test
-v3
+Converting bmp to char array to use in C++
